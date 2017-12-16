@@ -12,7 +12,7 @@ Burak Firik
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/burakfirik/Dicee/blob/master/dice.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/burakfirik/Dicee/blob/master/dicee.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Copyright 2017 Burak Firik
